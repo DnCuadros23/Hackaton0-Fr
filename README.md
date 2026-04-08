@@ -61,17 +61,17 @@ Reemplaza en tu `<div class="team-card">`:
 Ejemplo de tarjeta correctamente completada:
 ```html
 <div class="team-card__content">
-  <h3 class="team-card__name">Sparky García</h3>
-  <p class="team-card__role">Backend Developer</p>
+  <h3 class="team-card__name">Denilson Cuadros</h3>
+  <p class="team-card__role">Ciencia de</p>
   <div class="team-card__social">
     <a
       href="https://github.com/sparkygarcia"
-      class="team-card__social-link team-card__social-link--github"
+      class="https://github.com/DnCuadros23/Hackaton0-Fr/branches?branch_event=branch%2520%27denilson%27%2520was%2520created"
     >
       <i class="fab fa-github"></i>
     </a>
     <a
-      href="https://www.linkedin.com/in/sparkygarcia"
+      href="http://linkedin.com/onboarding/start/profile-location/new/?source=coreg"
       class="team-card__social-link team-card__social-link--linkedin"
     >
       <i class="fab fa-linkedin"></i>
